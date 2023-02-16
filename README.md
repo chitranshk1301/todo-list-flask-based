@@ -1,7 +1,21 @@
-# todo-list-flask
-A todo list created in Flask as the main framework and MySQL as the database. Application is also dockerized for better/easier deployment.
 
-Command to run the application:
-``
+# Todo list (Flask and SQL)
+
+This project is a source code to todo list made using flask (python based web framework) and sql. It is also containerized using docker.
+
+Clone the repository:
+```
+git clone https://github.com/chitranshk1301/todo-list-flask-based.git
+```
+
+Command to run the project:
+
+```
 docker compose up
-``
+```
+## Prerequisites
+
+- Python
+- SQL
+- Docker
+
